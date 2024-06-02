@@ -1,5 +1,5 @@
 # iNotes
-<p>This is a fullstack web development project based on...
+<p>This is a fullstack web development project based on . . .
 <ul>
     <li>HTML</li>
     <li>CSS</li>
